@@ -22,9 +22,29 @@ SynthDef(\tres_Datos, {
 )
 
 a = Synth.new(\tres_Datos);
-a.set(\freq, 40);
-a.set(\nHarm, 10);
-a.set(\detune, 0.5);
+a.set(\freq, 60);
+a.set(\nHarm, 20);
+a.set(\detune, 0.4);
 a.set(\amp, 0.7);
 
 a.free;
+
+(
+b = OSCFunc({ | msg, time, addr, port |
+	var dato1, dato2, dato3;
+	dato1 = msg[1]; //entre 1 y 196
+	//dato2 = msg[2].linlin(2008,2022,0,30); // entre 2008 y 2022
+	//dato3 = msg[3];
+	("el dato 1 es" + dato1).postln;
+	("el dato 2 es" + dato2).postln;
+	("el dato 3 es" + dato3).postln;
+	a.set(\freq,dato1);
+	//a.set(\nHarm,dato2);
+	//a.set(\detune,dato2);
+
+
+
+}, '/data');
+)
+
+b.free;

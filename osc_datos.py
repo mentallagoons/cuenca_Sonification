@@ -15,7 +15,7 @@ def send_osc(list_data):
     return
 
 #lectura de archivo
-nombre_archivo = "datos_cuenca/cuencas_limpias.txt"
+nombre_archivo = "datos_cuenca/cuencas_limpias_poblacion.txt"
 file = open(nombre_archivo, 'rt')
 tabla = []
 lines = file.readlines()
@@ -42,7 +42,7 @@ while (True):
     # print(in_line)
     valores = [0,0,0]
     try:    
-        valores = [i, int(in_line[0]), float(in_line[2])]
+        valores = [i, int(in_line[0]), float(in_line[2]), float(in_line[3])]
         
     except:
         i=i+1
