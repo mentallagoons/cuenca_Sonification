@@ -1,0 +1,16 @@
+﻿2008,Tochac-Tecocomulco,0.18,11.02
+2009,Tochac-Tecocomulco,0.18,14.39
+2010,Tochac-Tecocomulco,0.18,17.76
+2011,Tochac-Tecocomulco,0.04,23.1
+2012,Tochac-Tecocomulco,0.04,28.43
+2013,Tochac-Tecocomulco,0.04,36.45
+2014,Tochac-Tecocomulco,0.04,44.47
+2015,Tochac-Tecocomulco,0.04,51.34
+2016,Tochac-Tecocomulco,0.0375572,58.21
+2017,Tochac-Tecocomulco,0.0375572,67.25
+2018,Tochac-Tecocomulco,0.0375572,72.98
+2019,Tochac-Tecocomulco,0.0375572,79.2
+2020,Tochac-Tecocomulco,0.022,86.29
+2021,Tochac-Tecocomulco,0.022,92.04
+2022,Tochac-Tecocomulco,0.022,92.04
+0,,0,0

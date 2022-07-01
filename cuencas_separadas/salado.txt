@@ -1,0 +1,16 @@
+﻿2008,Rio Salado,10.31,11.02
+2009,Rio Salado,10.31,14.39
+2010,Rio Salado,10.31,17.76
+2011,Rio Salado,3.1,23.1
+2012,Rio Salado,3.1,28.43
+2013,Rio Salado,3.1,36.45
+2014,Rio Salado,3.1,44.47
+2015,Rio Salado,3.1,51.34
+2016,Rio Salado,2.92359,58.21
+2017,Rio Salado,2.92359,67.25
+2018,Rio Salado,2.92359,72.98
+2019,Rio Salado,2.92359,79.2
+2020,Rio Salado,2.802,86.29
+2021,Rio Salado,2.802,92.04
+2022,Rio Salado,2.802,92.04
+0,,0,0

@@ -1,0 +1,16 @@
+﻿2008,Xochimilco,1.4,11.02
+2009,Xochimilco,1.4,14.39
+2010,Xochimilco,1.4,17.76
+2011,Xochimilco,0.16,23.1
+2012,Xochimilco,0.16,28.43
+2013,Xochimilco,0.16,36.45
+2014,Xochimilco,0.16,44.47
+2015,Xochimilco,0.16,51.34
+2016,Xochimilco,0.148109,58.21
+2017,Xochimilco,0.148109,67.25
+2018,Xochimilco,0.148109,72.98
+2019,Xochimilco,0.148109,79.2
+2020,Xochimilco,0.083,86.29
+2021,Xochimilco,0.083,92.04
+2022,Xochimilco,0.083,92.04
+0,,0,0

@@ -1,0 +1,16 @@
+﻿2008,Presa Requena,0.89,11.02
+2009,Presa Requena,0.89,14.39
+2010,Presa Requena,0.89,17.76
+2011,Presa Requena,0.05,23.1
+2012,Presa Requena,0.05,28.43
+2013,Presa Requena,0.05,36.45
+2014,Presa Requena,0.05,44.47
+2015,Presa Requena,0.05,51.34
+2016,Presa Requena,0.0470185,58.21
+2017,Presa Requena,0.0470185,67.25
+2018,Presa Requena,0.0470185,72.98
+2019,Presa Requena,0.0470185,79.2
+2020,Presa Requena,0.046,86.29
+2021,Presa Requena,0.046,92.04
+2022,Presa Requena,0.046,92.04
+0,,0,0

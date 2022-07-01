@@ -1,0 +1,16 @@
+﻿2008,Rio La Compañia,1.11,11.02
+2009,Rio La Compañia,1.11,14.39
+2010,Rio La Compañia,1.11,17.76
+2011,Rio La Compañia,0.18,23.1
+2012,Rio La Compañia,0.18,28.43
+2013,Rio La Compañia,0.18,36.45
+2014,Rio La Compañia,0.18,44.47
+2015,Rio La Compañia,0.18,51.34
+2016,Rio La Compañia,0.180975,58.21
+2017,Rio La Compañia,0.180975,67.25
+2018,Rio La Compañia,0.180975,72.98
+2019,Rio La Compañia,0.180975,79.2
+2020,Rio La Compañia,0.09,86.29
+2021,Rio La Compañia,0.09,92.04
+2022,Rio La Compañia,0.09,92.04
+0,,0,0

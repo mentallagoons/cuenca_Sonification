@@ -1,0 +1,16 @@
+﻿2008,Presa Endho,7.46,11.02
+2009,Presa Endho,7.46,14.39
+2010,Presa Endho,7.46,17.76
+2011,Presa Endho,1.38,23.1
+2012,Presa Endho,1.38,28.43
+2013,Presa Endho,1.38,36.45
+2014,Presa Endho,1.38,44.47
+2015,Presa Endho,1.38,51.34
+2016,Presa Endho,1.28205,58.21
+2017,Presa Endho,1.28205,67.25
+2018,Presa Endho,1.28205,72.98
+2019,Presa Endho,1.28205,79.2
+2020,Presa Endho,1.625,86.29
+2021,Presa Endho,1.625,92.04
+2022,Presa Endho,1.625,92.04
+0,,0,0

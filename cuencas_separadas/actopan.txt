@@ -1,0 +1,16 @@
+﻿2008,Rio Actopan,0.52,11.02
+2009,Rio Actopan,0.52,14.39
+2010,Rio Actopan,0.52,17.76
+2011,Rio Actopan,0.82,23.1
+2012,Rio Actopan,0.82,28.43
+2013,Rio Actopan,0.82,36.45
+2014,Rio Actopan,0.82,44.47
+2015,Rio Actopan,0.82,51.34
+2016,Rio Actopan,0.765607,58.21
+2017,Rio Actopan,0.765607,67.25
+2018,Rio Actopan,0.765607,72.98
+2019,Rio Actopan,0.765607,79.2
+2020,Rio Actopan,0.27,86.29
+2021,Rio Actopan,0.27,92.04
+2022,Rio Actopan,0.27,92.04
+0,,0,0
