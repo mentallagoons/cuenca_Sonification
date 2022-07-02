@@ -40,7 +40,7 @@ i = 0
 while (True):
     in_line = tabla[i]
     # print(in_line)
-    valores = [0,0,0]
+    valores = [0,0,0,0,0,0]
     try:    
         valores = [i, int(in_line[0]), float(in_line[2]), float(in_line[3])]
         

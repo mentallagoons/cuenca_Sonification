@@ -5,7 +5,7 @@ from time import sleep
 
 #Seteo de puerto
 OSC_HOST = "127.0.0.1"
-OSC_PORT = 57120
+OSC_PORT = 8000 #57120
 OSC_CLIENT = OSCClient(OSC_HOST,OSC_PORT)
 
 def send_osc(list_data):
