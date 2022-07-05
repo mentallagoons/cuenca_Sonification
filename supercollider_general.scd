@@ -39,9 +39,9 @@ b = OSCFunc({ | msg, time, addr, port |
 	("el dato 1 es" + dato1).postln;
 	("el dato 2 es" + dato2).postln;
 	("el dato 3 es" + dato3).postln;
-	//("el dato 4 es" + dato4).postln;
+	("el dato 4 es" + dato4).postln;
 	a.set(\freq,dato1);
-	//a.set(\detune,dato2);
+	a.set(\amp,dato2);
 	a.set(\detune,dato3);
 	a.set(\nHarm, dato4);
 
@@ -49,5 +49,10 @@ b = OSCFunc({ | msg, time, addr, port |
 
 }, '/data');
 )
+
+s.prepareForRecord;
+thisProcess.platform.recordingsDir = "/Users/JuanManuel/Desktop/";
+s.record;
+s.stopRecording;
 
 b.free;
